@@ -22,7 +22,7 @@
       
       <li><a href="/risiken/">🛡️ Sicherheit &amp; Risiken</a></li>
       
-      <li><a href="/hintergr%c3%bcnde/">❓ Warum DBX0AN?</a></li>
+      <li><a href="/hintergr%c3%bcnde/">❓ Warum einen Tagesgeld ETF nehmen?</a></li>
       
       <li><a href="/kurs/">📈 Kurs</a></li>
       
@@ -37,6 +37,41 @@
 <h1 id="dbx0an---der-tagesgeld-etf-einfach-gemacht">DBX0AN - Der Tagesgeld ETF einfach gemacht</h1>
 <p>Der <strong>DBX0AN</strong> bzw. <strong>Xtrackers II EUR Overnight Rate Swap UCITS ETF</strong> ist ein sogenannter Geldmarkt-Fonds, der - etwas vereinfacht - den tagesaktuellen Zins der EZB ausschüttet.
 Wie genau das funktioniert erfährst du hier: <a href="/wie-funktionierts">Wie&rsquo;s funktioniert</a>.</p>
+<div id="button-container" style="display: flex; justify-content: center; padding: 20px;">
+<button id="load-chart" style="padding: 10px 20px; font-size: 1rem; cursor: pointer;">
+  📈 Kurs anzeigen
+</button>
+</div>
+<p id="info-paragraph">Beim Klick auf "Kurs anzeigen" können personenbezogene Daten an TradingView.com übermittelt werden.<br>Sie erklären sich mit der <a target="_blank" href="https://de.tradingview.com/privacy-policy/">Datenschutzrichtlinie von TradingView.com</a>
+</p>
+<div id="chart-container" style="margin-top:20px;"></div>
+<script>
+document.getElementById("load-chart").addEventListener("click", function() {
+    const button = this;
+    button.style.display = "none";
+    document.getElementById("info-paragraph").style.display = "none";
+
+    const script = document.createElement("script");
+    script.src = "https://s3.tradingview.com/tv.js";
+    script.onload = function() {
+        new TradingView.widget({
+            width: "100%",
+            height: 600,
+            symbol: "TRADEGATE:XEON",
+            interval: "D",
+            timezone: "Etc/UTC",
+            theme: "light",
+            style: "2",
+            locale: "de_DE",
+            toolbar_bg: "#f1f3f6",
+            enable_publishing: false,
+            save_image: false,
+            container_id: "chart-container"
+        });
+    };
+    document.body.appendChild(script);
+});
+</script>
 <p>WKN:</p>
 <pre><code>DBX0AN
 </code></pre>

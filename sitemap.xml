@@ -2,17 +2,21 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://dbx0an.net/</loc>
-    <lastmod>2025-04-26T11:13:20+02:00</lastmod>
-  </url><url>
-    <loc>https://dbx0an.net/kurs/</loc>
-    <lastmod>2025-04-26T10:48:01+02:00</lastmod>
-  </url><url>
     <loc>https://dbx0an.net/about/</loc>
   </url><url>
     <loc>https://dbx0an.net/categories/</loc>
   </url><url>
+    <loc>https://dbx0an.net/</loc>
+  </url><url>
+    <loc>https://dbx0an.net/kurs/</loc>
+  </url><url>
+    <loc>https://dbx0an.net/risiken/</loc>
+  </url><url>
     <loc>https://dbx0an.net/tags/</loc>
+  </url><url>
+    <loc>https://dbx0an.net/empfehlungen/</loc>
+  </url><url>
+    <loc>https://dbx0an.net/hintergr%C3%BCnde/</loc>
   </url><url>
     <loc>https://dbx0an.net/funktionsweise/</loc>
   </url>
