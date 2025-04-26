@@ -6,21 +6,6 @@
     <description>Recent content in Categories on dbx0an - Der Tagesgeld ETF</description>
     <generator>Hugo</generator>
     <language>de</language>
-    <lastBuildDate>Wed, 14 Jun 2017 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://dbx0an.net/categories/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Example</title>
-      <link>https://dbx0an.net/categories/example/</link>
-      <pubDate>Wed, 14 Jun 2017 00:00:00 +0000</pubDate>
-      <guid>https://dbx0an.net/categories/example/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Hugo</title>
-      <link>https://dbx0an.net/categories/hugo/</link>
-      <pubDate>Sun, 14 Feb 2016 00:00:00 +0000</pubDate>
-      <guid>https://dbx0an.net/categories/hugo/</guid>
-      <description></description>
-    </item>
   </channel>
 </rss>

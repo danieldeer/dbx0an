@@ -10,45 +10,10 @@
     <atom:link href="https://dbx0an.net/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Chart</title>
-      <link>https://dbx0an.net/chart/</link>
+      <link>https://dbx0an.net/kurs/</link>
       <pubDate>Sat, 26 Apr 2025 10:48:01 +0200</pubDate>
-      <guid>https://dbx0an.net/chart/</guid>
+      <guid>https://dbx0an.net/kurs/</guid>
       <description>&lt;div id=&#34;button-container&#34; style=&#34;display: flex; justify-content: center; padding: 20px;&#34;&gt;&#xA;&lt;button id=&#34;load-chart&#34; style=&#34;padding: 10px 20px; font-size: 1rem; cursor: pointer;&#34;&gt;&#xA;  📈 Chart anzeigen&#xA;&lt;/button&gt;&#xA;&lt;/div&gt;&#xA;&lt;div id=&#34;chart-container&#34; style=&#34;margin-top:20px;&#34;&gt;&lt;/div&gt;&#xA;&lt;script&gt;&#xA;document.getElementById(&#34;load-chart&#34;).addEventListener(&#34;click&#34;, function() {&#xA;    const button = this;&#xA;    button.style.display = &#34;none&#34;;&#xA;&#xA;    const script = document.createElement(&#34;script&#34;);&#xA;    script.src = &#34;https://s3.tradingview.com/tv.js&#34;;&#xA;    script.onload = function() {&#xA;        new TradingView.widget({&#xA;            width: &#34;100%&#34;,&#xA;            height: 600,&#xA;            symbol: &#34;TRADEGATE:XEON&#34;, // hier musst du den richtigen Ticker einsetzen!&#xA;            interval: &#34;D&#34;, // &#34;D&#34; = Daily Chart&#xA;            timezone: &#34;Etc/UTC&#34;,&#xA;            theme: &#34;light&#34;,&#xA;            style: &#34;2&#34;,&#xA;            locale: &#34;de_DE&#34;,&#xA;            toolbar_bg: &#34;#f1f3f6&#34;,&#xA;            enable_publishing: false,&#xA;            save_image: false,&#xA;            container_id: &#34;chart-container&#34;&#xA;        });&#xA;    };&#xA;    document.body.appendChild(script);&#xA;});&#xA;&lt;/script&gt;</description>
-    </item>
-    <item>
-      <title>dbx0an - Empfehlungen</title>
-      <link>https://dbx0an.net/posts/my-first-post/</link>
-      <pubDate>Fri, 25 Apr 2025 09:30:23 +0200</pubDate>
-      <guid>https://dbx0an.net/posts/my-first-post/</guid>
-      <description>&lt;h1 id=&#34;dbx0an---empfehlungen&#34;&gt;dbx0an - Empfehlungen&lt;/h1&gt;&#xA;&lt;p&gt;Die folgenden Broker werden empfohlen:&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Trade Republic&lt;/li&gt;&#xA;&lt;li&gt;ING DiBa AG&lt;/li&gt;&#xA;&lt;li&gt;Commerzbank AG&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
-    </item>
-    <item>
-      <title>Another Note on A blogdown Tutorial</title>
-      <link>https://dbx0an.net/note/2017/06/14/another-note/</link>
-      <pubDate>Wed, 14 Jun 2017 00:00:00 +0000</pubDate>
-      <guid>https://dbx0an.net/note/2017/06/14/another-note/</guid>
-      <description>&lt;p&gt;I just discovered &lt;a href=&#34;https://www.apreshill.com/blog/2020-12-new-year-new-blogdown/&#34;&gt;an awesome tutorial&lt;/a&gt; on &lt;strong&gt;blogdown&lt;/strong&gt; written by Alison. I have to admit this is &lt;em&gt;the&lt;/em&gt; best &lt;strong&gt;blogdown&lt;/strong&gt; tutorial I have seen so far.&lt;/p&gt;&#xA;&lt;p&gt;&lt;img src=&#34;https://www.apreshill.com/blog/2020-12-new-year-new-blogdown/03-blogdown-2021.png&#34; alt=&#34;Alison&amp;rsquo;s blogdown tutorial&#34;&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>A Quick Note on Two Beautiful Websites</title>
-      <link>https://dbx0an.net/note/2017/06/13/a-quick-note/</link>
-      <pubDate>Tue, 13 Jun 2017 00:00:00 +0000</pubDate>
-      <guid>https://dbx0an.net/note/2017/06/13/a-quick-note/</guid>
-      <description>&lt;p&gt;To me, the two most impressive websites based on &lt;strong&gt;blogdown&lt;/strong&gt; are:&lt;/p&gt;&#xA;&lt;ol&gt;&#xA;&lt;li&gt;&lt;a href=&#34;https://robjhyndman.com&#34;&gt;Rob J Hyndman&lt;/a&gt;&amp;rsquo;s personal website.&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;http://livefreeordichotomize.com&#34;&gt;Live Free or Dichotomize&lt;/a&gt; by Lucy and Nick &lt;em&gt;et al&lt;/em&gt;.&lt;/li&gt;&#xA;&lt;/ol&gt;&#xA;&lt;p&gt;I&amp;rsquo;m sure there will be more.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>A Plain Markdown Post</title>
-      <link>https://dbx0an.net/post/2016/02/14/a-plain-markdown-post/</link>
-      <pubDate>Sun, 14 Feb 2016 00:00:00 +0000</pubDate>
-      <guid>https://dbx0an.net/post/2016/02/14/a-plain-markdown-post/</guid>
-      <description>&lt;p&gt;This sample post is mainly for&#xA;&lt;a href=&#34;https://github.com/rstudio/blogdown&#34;&gt;&lt;strong&gt;blogdown&lt;/strong&gt;&lt;/a&gt; users. If you do not use&#xA;&lt;strong&gt;blogdown&lt;/strong&gt;, you can skip the first section.&lt;/p&gt;&#xA;&lt;h1 id=&#34;1-markdown-or-r-markdown&#34;&gt;1. Markdown or R Markdown&lt;/h1&gt;&#xA;&lt;p&gt;This is a post written in plain Markdown (&lt;code&gt;*.md&lt;/code&gt;) instead of R Markdown&#xA;(&lt;code&gt;*.Rmd&lt;/code&gt;). The major differences are:&lt;/p&gt;&#xA;&lt;ol&gt;&#xA;&lt;li&gt;You cannot run any R code in a plain Markdown document, whereas in an R&#xA;Markdown document, you can embed R code chunks (&lt;code&gt;```{r}&lt;/code&gt;);&lt;/li&gt;&#xA;&lt;li&gt;A plain Markdown post is rendered through&#xA;&lt;a href=&#34;https://gohugo.io/overview/configuration/&#34;&gt;Goldmark&lt;/a&gt; by default, and an R&#xA;Markdown document is compiled by&#xA;&lt;a href=&#34;http://rmarkdown.rstudio.com&#34;&gt;&lt;strong&gt;rmarkdown&lt;/strong&gt;&lt;/a&gt; and&#xA;&lt;a href=&#34;http://pandoc.org&#34;&gt;Pandoc&lt;/a&gt;.&lt;/li&gt;&#xA;&lt;/ol&gt;&#xA;&lt;p&gt;There are differences in syntax between Goldmark&amp;rsquo;s Markdown and Pandoc&amp;rsquo;s&#xA;Markdown. For example, Goldmark does not support LaTeX math and Pandoc does. I&#xA;have added the KaTeX support to this theme (i.e.,&#xA;&lt;a href=&#34;https://github.com/yihui/hugo-xmin&#34;&gt;hugo-xmin&lt;/a&gt;)&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Lorem Ipsum</title>
-      <link>https://dbx0an.net/post/2015/07/23/lorem-ipsum/</link>
-      <pubDate>Thu, 23 Jul 2015 00:00:00 +0000</pubDate>
-      <guid>https://dbx0an.net/post/2015/07/23/lorem-ipsum/</guid>
-      <description>&lt;p&gt;&lt;strong&gt;Lorem ipsum&lt;/strong&gt; dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore &lt;em&gt;magna aliqua&lt;/em&gt;. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.&lt;/p&gt;&#xA;&lt;p&gt;Quisque mattis volutpat lorem vitae feugiat. Praesent porta est quis porta imperdiet. Aenean porta, mi non cursus volutpat, mi est mollis libero, id suscipit orci urna a augue. In fringilla euismod lacus, vitae tristique massa ultricies vitae. Mauris accumsan ligula tristique, viverra nulla sed, porta sapien. Vestibulum facilisis nec nisl blandit convallis. Maecenas venenatis porta malesuada. Ut ac erat tortor. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Nulla sodales quam sit amet tincidunt egestas. In et turpis at orci vestibulum ullamcorper. Aliquam sed ante libero. Sed hendrerit arcu lacus.&lt;/p&gt;</description>
     </item>
     <item>
       <title>About Hugo XMin</title>
@@ -59,9 +24,9 @@
     </item>
     <item>
       <title>Wie Funktioniert&#39;s?</title>
-      <link>https://dbx0an.net/wie-funktionierts/</link>
+      <link>https://dbx0an.net/funktionsweise/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://dbx0an.net/wie-funktionierts/</guid>
+      <guid>https://dbx0an.net/funktionsweise/</guid>
       <description>&lt;p&gt;Der &lt;strong&gt;DBX0AN&lt;/strong&gt; ist ein sogenannter &lt;strong&gt;Geldmarkt-ETF&lt;/strong&gt;, offiziell heißt er:&lt;br&gt;&#xA;&lt;strong&gt;Xtrackers II EUR Overnight Rate Swap UCITS ETF&lt;/strong&gt;.&lt;/p&gt;&#xA;&lt;p&gt;Sein Ziel:&lt;br&gt;&#xA;Er soll dir eine Rendite bieten, die so nah wie möglich an den Tagesgeldzinssatz der EZB (den &lt;strong&gt;€STR&lt;/strong&gt;) herankommt – mit einem kleinen Bonus von 0,085 % pro Jahr oben drauf.&lt;/p&gt;&#xA;&lt;h2 id=&#34;wie-wird-das-erreicht&#34;&gt;Wie wird das erreicht?&lt;/h2&gt;&#xA;&lt;p&gt;Der Fonds funktioniert etwas anders als ein klassischer Tagesgeld- oder Rentenfonds:&lt;br&gt;&#xA;Er investiert nicht direkt in Bankeinlagen oder Staatsanleihen. Stattdessen nutzt er sogenannte &lt;strong&gt;Swaps&lt;/strong&gt; – also Verträge mit Banken –, um die tägliche Verzinsung des €STR nachzubilden.&lt;/p&gt;</description>
     </item>
   </channel>
