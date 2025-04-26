@@ -6,8 +6,15 @@
     <description>Recent content in Home on dbx0an - Der Tagesgeld ETF</description>
     <generator>Hugo</generator>
     <language>de</language>
-    <lastBuildDate>Fri, 25 Apr 2025 09:30:23 +0200</lastBuildDate>
+    <lastBuildDate>Sat, 26 Apr 2025 10:48:01 +0200</lastBuildDate>
     <atom:link href="https://dbx0an.net/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Chart</title>
+      <link>https://dbx0an.net/chart/</link>
+      <pubDate>Sat, 26 Apr 2025 10:48:01 +0200</pubDate>
+      <guid>https://dbx0an.net/chart/</guid>
+      <description>&lt;div id=&#34;button-container&#34; style=&#34;display: flex; justify-content: center; padding: 20px;&#34;&gt;&#xA;&lt;button id=&#34;load-chart&#34; style=&#34;padding: 10px 20px; font-size: 1rem; cursor: pointer;&#34;&gt;&#xA;  📈 Chart anzeigen&#xA;&lt;/button&gt;&#xA;&lt;/div&gt;&#xA;&lt;div id=&#34;chart-container&#34; style=&#34;margin-top:20px;&#34;&gt;&lt;/div&gt;&#xA;&lt;script&gt;&#xA;document.getElementById(&#34;load-chart&#34;).addEventListener(&#34;click&#34;, function() {&#xA;    const button = this;&#xA;    button.style.display = &#34;none&#34;;&#xA;&#xA;    const script = document.createElement(&#34;script&#34;);&#xA;    script.src = &#34;https://s3.tradingview.com/tv.js&#34;;&#xA;    script.onload = function() {&#xA;        new TradingView.widget({&#xA;            width: &#34;100%&#34;,&#xA;            height: 600,&#xA;            symbol: &#34;TRADEGATE:XEON&#34;, // hier musst du den richtigen Ticker einsetzen!&#xA;            interval: &#34;D&#34;, // &#34;D&#34; = Daily Chart&#xA;            timezone: &#34;Etc/UTC&#34;,&#xA;            theme: &#34;light&#34;,&#xA;            style: &#34;2&#34;,&#xA;            locale: &#34;de_DE&#34;,&#xA;            toolbar_bg: &#34;#f1f3f6&#34;,&#xA;            enable_publishing: false,&#xA;            save_image: false,&#xA;            container_id: &#34;chart-container&#34;&#xA;        });&#xA;    };&#xA;    document.body.appendChild(script);&#xA;});&#xA;&lt;/script&gt;</description>
+    </item>
     <item>
       <title>dbx0an - Empfehlungen</title>
       <link>https://dbx0an.net/posts/my-first-post/</link>
