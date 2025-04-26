@@ -15,6 +15,13 @@
       <description>&lt;p&gt;&lt;strong&gt;XMin&lt;/strong&gt; is the first Hugo theme I have designed. The original reason that I wrote it was I needed a minimal example of Hugo themes when I was writing the  &lt;a href=&#34;https://github.com/rstudio/blogdown&#34;&gt;&lt;strong&gt;blogdown&lt;/strong&gt;&lt;/a&gt; book. Basically I wanted a simple theme that supports a navigation menu, a home page, other single pages, lists of pages, blog posts, categories, tags, and RSS. That is all. Nothing fancy. In terms of CSS and JavaScript, I really want to keep them minimal. In fact, this theme does not contain any JavaScript code at all, although on this example website I did introduce some JavaScript code (still relatively simple anyway). The theme does not contain any images, either, and is pretty much a plain-text theme.&lt;/p&gt;</description>
     </item>
     <item>
+      <title>Impressum und Kontakt</title>
+      <link>https://dbx0an.net/impressum/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://dbx0an.net/impressum/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;DBX0AN.net&lt;/strong&gt; ist ein Angebot der:&lt;/p&gt;&#xA;&lt;p&gt;Daniel Hirsch &lt;br&gt;&#xA;Kiefernweg 17 &lt;br&gt;&#xA;36110 Schlitz &lt;br&gt;&#xA;Deutschland &lt;br&gt;&#xA;E-Mail: &lt;a href=&#34;mailto:contact@hirschdaniel.com&#34;&gt;contact@hirschdaniel.com&lt;/a&gt;&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;h2 id=&#34;rechtliche-hinweise&#34;&gt;Rechtliche Hinweise&lt;/h2&gt;&#xA;&lt;p&gt;Die Inhalte auf DBX0AN.net dienen ausschließlich der allgemeinen Information und stellen &lt;strong&gt;keine Anlageberatung, keine Steuerberatung und keine Kauf- oder Verkaufsempfehlung&lt;/strong&gt; dar.&lt;/p&gt;&#xA;&lt;p&gt;Es wird &lt;strong&gt;keinerlei Haftung&lt;/strong&gt; für Anlageentscheidungen übernommen, die aufgrund der hier präsentierten Informationen getroffen werden.&lt;br&gt;&#xA;Trotz sorgfältiger Recherche können wir &lt;strong&gt;keine Gewähr für Vollständigkeit, Richtigkeit und Aktualität&lt;/strong&gt; der bereitgestellten Informationen übernehmen.&lt;/p&gt;&#xA;&lt;p&gt;Verbindliche und detaillierte Informationen zum DBX0AN entnehmen Sie bitte ausschließlich den offiziellen Unterlagen der Fondsgesellschaft (z.B. Verkaufsprospekt, KID, Rechenschaftsberichte).&lt;/p&gt;</description>
+    </item>
+    <item>
       <title>Kurs</title>
       <link>https://dbx0an.net/kurs/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
