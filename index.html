@@ -34,17 +34,24 @@
 
 
 <img src="https://www.svgrepo.com/show/421832/branch-growth-invest.svg" style="max-width:15%;min-width:40px;float:right;" alt="DBX0AN icon" />
-<h1 id="dbx0an---der-tagesgeld-etf-einfach-gemacht">DBX0AN - Der Tagesgeld ETF einfach gemacht</h1>
-<p>Der <strong>DBX0AN</strong> bzw. <strong>Xtrackers II EUR Overnight Rate Swap UCITS ETF</strong> ist ein sogenannter Geldmarkt-Fonds, der - etwas vereinfacht - den tagesaktuellen Zins der EZB ausschüttet.
-Wie genau das funktioniert erfährst du hier: <a href="/wie-funktionierts">Wie&rsquo;s funktioniert</a>.</p>
-<p>Der aktuelle Zinssatz beträgt (Stand 26.04.2025): <strong>2.169%</strong></p>
+<h1 id="einfach-tagesgeldzinsen-kassieren--mit-dem-dbx0an">Einfach Tagesgeldzinsen kassieren – mit dem DBX0AN</h1>
+<p>Willkommen! Hier erfährst du alles, was du über den <strong>DBX0AN</strong> wissen musst – den ETF, der dir die aktuellen Tagesgeldzinsen einfach und flexibel auf dein Depot bringt.</p>
+<p>Der <strong>DBX0AN</strong> (offiziell: <strong>Xtrackers II EUR Overnight Rate Swap UCITS ETF</strong>) ist ein Geldmarkt-ETF.<br>
+Er bildet den <strong>täglichen Zinssatz der Europäischen Zentralbank (€STR)</strong> ab – plus einen kleinen Bonus von 0,085 % pro Jahr.</p>
+<p>👉 <strong><a href="/funktionsweise/">Wie genau funktioniert das? Hier klicken!</a></strong></p>
+<hr>
+<h2 id="aktueller-zinssatz">Aktueller Zinssatz</h2>
+<p><strong>Stand 26.04.2025:</strong><br>
+<strong>➔ 2,169 % p.a.</strong></p>
+<p><em>(Zins ändert sich täglich mit dem EZB-Leitzins.)</em></p>
+<hr>
+<h2 id="-tagesaktueller-kurs">📈 Tagesaktueller Kurs</h2>
 <div id="button-container" style="display: flex; justify-content: center; padding: 20px;">
 <button id="load-chart" style="padding: 10px 20px; font-size: 1rem; cursor: pointer;">
   📈 Kurs anzeigen
 </button>
 </div>
-<p id="info-paragraph">Beim Klick auf "Kurs anzeigen" können personenbezogene Daten an TradingView.com übermittelt werden.<br>Sie erklären sich mit der <a target="_blank" href="https://de.tradingview.com/privacy-policy/">Datenschutzrichtlinie von TradingView.com</a>
-</p>
+<p id="info-paragraph" style="text-align: center; font-size: 0.9rem;">Beim Klick auf "Kurs anzeigen" können personenbezogene Daten an TradingView.com übermittelt werden.<br>Sie erklären sich mit der <a target="_blank" href="https://de.tradingview.com/privacy-policy/">Datenschutzrichtlinie von TradingView.com</a>.</p>
 <div id="chart-container" style="margin-top:20px;"></div>
 <script>
 document.getElementById("load-chart").addEventListener("click", function() {
@@ -54,32 +61,8 @@ document.getElementById("load-chart").addEventListener("click", function() {
 
     const script = document.createElement("script");
     script.src = "https://s3.tradingview.com/tv.js";
-    script.onload = function() {
-        new TradingView.widget({
-            width: "100%",
-            height: 600,
-            symbol: "TRADEGATE:XEON",
-            interval: "D",
-            timezone: "Etc/UTC",
-            theme: "light",
-            style: "2",
-            locale: "de_DE",
-            toolbar_bg: "#f1f3f6",
-            enable_publishing: false,
-            save_image: false,
-            container_id: "chart-container"
-        });
-    };
-    document.body.appendChild(script);
-});
-</script>
-<p>WKN:</p>
-<pre><code>DBX0AN
-</code></pre>
-<p>ISIN:</p>
-<pre><code>LU0290358497
-</code></pre>
-<p>Auf dieser Webseite erfährst du alles über den DBX0AN. Was er ist, wie man ihn am besten kauft, und wann man ihn am besten nicht kauft.</p>
+    script.onload = func
+
 
 
 <ul>
