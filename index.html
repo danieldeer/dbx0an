@@ -51,7 +51,7 @@ Er bildet den <strong>täglichen Zinssatz der Europäischen Zentralbank (€STR)
   📈 Kurs anzeigen
 </button>
 </div>
-<p id="info-paragraph" style="text-align: center; font-size: 0.9rem;">Beim Klick auf "Kurs anzeigen" können personenbezogene Daten an TradingView.com übermittelt werden.<br>Sie erklären sich mit der <a target="_blank" href="https://de.tradingview.com/privacy-policy/">Datenschutzrichtlinie von TradingView.com</a>.</p>
+<p id="info-paragraph" style="text-align: center; font-size: 0.9rem;">Beim Klick auf "Kurs anzeigen" können personenbezogene Daten an TradingView.com übermittelt werden.<br>Sie erklären sich mit der <a target="_blank" href="https://de.tradingview.com/privacy-policy/">Datenschutzrichtlinie von TradingView.com</a> einverstanden.</p>
 <div id="chart-container" style="margin-top:20px;"></div>
 <script>
 document.getElementById("load-chart").addEventListener("click", function() {
@@ -61,8 +61,55 @@ document.getElementById("load-chart").addEventListener("click", function() {
 
     const script = document.createElement("script");
     script.src = "https://s3.tradingview.com/tv.js";
-    script.onload = func
-
+    script.onload = function() {
+        new TradingView.widget({
+            width: "100%",
+            height: 600,
+            symbol: "TRADEGATE:XEON",
+            interval: "D",
+            timezone: "Etc/UTC",
+            theme: "light",
+            style: "2",
+            locale: "de_DE",
+            toolbar_bg: "#f1f3f6",
+            enable_publishing: false,
+            save_image: false,
+            container_id: "chart-container"
+        });
+    };
+    document.body.appendChild(script);
+});
+</script>
+<hr>
+<h2 id="kennzahlen">Kennzahlen</h2>
+<table>
+  <thead>
+      <tr>
+          <th style="text-align: left">Kennzahl</th>
+          <th style="text-align: left">Wert</th>
+      </tr>
+  </thead>
+  <tbody>
+      <tr>
+          <td style="text-align: left"><strong>WKN</strong></td>
+          <td style="text-align: left">DBX0AN</td>
+      </tr>
+      <tr>
+          <td style="text-align: left"><strong>ISIN</strong></td>
+          <td style="text-align: left">LU0290358497</td>
+      </tr>
+  </tbody>
+</table>
+<hr>
+<h2 id="starte-hier">Starte hier</h2>
+<ul>
+<li><a href="/funktionsweise/">🔍 Wie funktioniert der DBX0AN genau?</a></li>
+<li><a href="/hintergr%C3%BCnde/">💡 Warum lohnt sich der DBX0AN gegenüber klassischem Tagesgeld?</a></li>
+<li><a href="/risiken/">🛡️ Wie sicher ist der DBX0AN wirklich?</a></li>
+<li><a href="/empfehlungen/">⭐ Wo kaufe ich den DBX0AN am besten?</a></li>
+</ul>
+<hr>
+<p>Auf dieser Webseite findest du alles, was du brauchst, um den <strong>DBX0AN</strong> zu verstehen und sinnvoll zu nutzen – klar, einfach und ohne Finanzkauderwelsch.</p>
 
 
 <ul>
