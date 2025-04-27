@@ -1,18 +1,18 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Posts on A minimal Hugo website</title>
-    <link>https://example.org/posts/</link>
-    <description>Recent content in Posts on A minimal Hugo website</description>
+    <title>Posts on dbx0an - Der Tagesgeld ETF</title>
+    <link>http://localhost:1313/posts/</link>
+    <description>Recent content in Posts on dbx0an - Der Tagesgeld ETF</description>
     <generator>Hugo</generator>
-    <language>en-us</language>
+    <language>de</language>
     <lastBuildDate>Fri, 25 Apr 2025 09:30:23 +0200</lastBuildDate>
-    <atom:link href="https://example.org/posts/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>dbx0an - Empfehlungen</title>
-      <link>https://example.org/posts/my-first-post/</link>
+      <link>http://localhost:1313/posts/my-first-post/</link>
       <pubDate>Fri, 25 Apr 2025 09:30:23 +0200</pubDate>
-      <guid>https://example.org/posts/my-first-post/</guid>
+      <guid>http://localhost:1313/posts/my-first-post/</guid>
       <description>&lt;h1 id=&#34;dbx0an---empfehlungen&#34;&gt;dbx0an - Empfehlungen&lt;/h1&gt;&#xA;&lt;p&gt;Die folgenden Broker werden empfohlen:&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Trade Republic&lt;/li&gt;&#xA;&lt;li&gt;ING DiBa AG&lt;/li&gt;&#xA;&lt;li&gt;Commerzbank AG&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
     </item>
   </channel>

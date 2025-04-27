@@ -1,6 +1,6 @@
-baseurl: "https://example.org/"  # please update this to your actual URL
-languageCode: "en-us"
-title: "A minimal Hugo website"
+baseurl: "https://dbx0an.net"  # please update this to your actual URL
+languageCode: "de"
+title: "DBX0AN - Tagesgeld ETF einfach erklärt"
 theme: "hugo-xmin"
 googleAnalytics: ""
 disqusShortname: ""
@@ -13,24 +13,30 @@ permalinks:
 
 menu:
   main:
-    - name: Home
+    - name: 🏠 Home
       url: ""
       weight: 1
-    - name: About
-      url: "about/"
+    - name: ⚙️ So funktioniert's
+      url: "funktionsweise/"
       weight: 2
-    - name: Categories
-      url: "categories/"
+    - name: ⭐ Tipps & Empfehlungen
+      url: "empfehlungen/"
       weight: 3
-    - name: Tags
-      url: "tags/"
+    - name: 🛡️ Sicherheit & Risiken
+      url: "risiken/"
       weight: 4
-    - name: Subscribe
-      url: "index.xml"
+    - name: ❓ Warum einen Tagesgeld ETF nehmen?
+      url: "hintergründe/"
+      weight: 5
+    - name: 📈 Aktueller Zinssatz & Kurs
+      url: "kurs/"
+      weight: 6
+
+
 
 params:
-  description: "A website built through Hugo and blogdown."
-  footer: "&copy; [Yihui Xie](https://yihui.org) 2017 -- {Year} | [Github](https://github.com/yihui) | [Twitter](https://twitter.com/xieyihui)"
+  description: "Alle Infos zum DBX0AN \"Tagesgeld-ETF\""
+  footer: "&copy; [Daniel Hirsch](https://hirschdaniel.com) {Year} | [Github](https://github.com/danieldeer) | [Impressum](/impressum/)"
 
 markup:
   highlight:
