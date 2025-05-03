@@ -2,6 +2,7 @@
 draft: false
 title: 'Sicherheit & Risiken'
 seo_title: Wie sicher ist der DBX0AN Tagesgeld-ETF? Risiken & Schutz einfach erklärt
+description: "Wie sicher ist dein Geld im DBX0AN ETF? Alle wichtigen Risiken und rechtlichen Sicherheiten verständlich und kompakt erklärt."
 ---
 
 Der **DBX0AN** ist ein Geldmarkt-ETF, der den **Euro-Übernacht-Zinssatz (€STR)** nachbildet. Dabei nutzt er sogenannte **Swap-Geschäfte** mit Banken, um möglichst genau die Tagesgeldzinsen abzubilden – plus einen kleinen Bonus von 0,085 % pro Jahr.

@@ -1,6 +1,7 @@
 ---
 title: Warum einen Tagesgeld ETF nehmen?
 seo_title: Warum ein Tagesgeld-ETF wie DBX0AN besser sein kann als Bank-Tagesgeld
+description: "Warum der DBX0AN ETF eine starke Alternative zu klassischen Tagesgeldkonten ist – ohne Zinslimits, Lockangebote oder Bankwechsel."
 ---
 
 Wenn du dein Geld kurzfristig parken willst, denkst du wahrscheinlich zuerst an ein klassisches Tagesgeldkonto.  

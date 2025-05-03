@@ -1,47 +1,75 @@
 ---
-draft: false
-title: Impressum und Kontakt
+title: Impressum & Datenschutz
+seo_title: "Impressum und Datenschutz | Rechtliche Hinweise | DBX0AN.net"
+description: "Offizielle Informationen zum Impressum und Datenschutz auf DBX0AN.net. Rechtliche Hinweise, Kontaktangaben und Datenschutzhinweise."
 ---
 
-**DBX0AN.net** ist ein Angebot von:
+Verantwortlich für den Inhalt nach § 55 Abs. 2 RStV:
 
 Daniel Hirsch \
 Kiefernweg 17 \
 36110 Schlitz \
-Deutschland \
-E-Mail: contact@hirschdaniel.com
+Deutschland
+Telefon: +49 123 4567890 \
+E-Mail: [contact@hirschdaniel.com](mailto:contact@hirschdaniel.com)
 
 ---
 
-## Rechtliche Hinweise
+## **Datenschutzerklärung**
 
-Die Inhalte auf DBX0AN.net dienen ausschließlich der allgemeinen Information und stellen **keine Anlageberatung, keine Steuerberatung und keine Kauf- oder Verkaufsempfehlung** dar.
+### 1. Verantwortlicher
 
-Es wird **keinerlei Haftung** für Anlageentscheidungen übernommen, die aufgrund der hier präsentierten Informationen getroffen werden.  
-Trotz sorgfältiger Recherche können wir **keine Gewähr für Vollständigkeit, Richtigkeit und Aktualität** der bereitgestellten Informationen übernehmen.
+Verantwortlich für die Datenverarbeitung auf dieser Website ist:
 
-Verbindliche und detaillierte Informationen zum DBX0AN entnehmen Sie bitte ausschließlich den offiziellen Unterlagen der Fondsgesellschaft (z.B. Verkaufsprospekt, KID, Rechenschaftsberichte).
+Daniel Hirsch
+Kiefernweg 17 \
+36110 Schlitz \
+Deutschland
 
-**Affiliate-Links:**  
-Links, die mit einem Sternchen ("\*") oder mit "Werbung" gekennzeichnet sind, sind sogenannte Affiliate-Links. Wenn Sie über diese Links ein Produkt erwerben, erhalten wir eine Provision. Für Sie entstehen dadurch **keine zusätzlichen Kosten**.
+### 2. Hosting über GitHub Pages
 
-**Unabhängigkeit:**  
-DBX0AN.net steht **in keiner geschäftlichen Verbindung** zu Deutsche Bank, DWS oder Xtrackers. Wir erhalten **keine Zahlungen, Provisionen oder andere Vergütungen** von diesen Unternehmen.
+Diese Website wird über **GitHub Pages** gehostet, einem Dienst der GitHub Inc., 88 Colin P. Kelly Jr. Street, San Francisco, CA 94107, USA.
 
----
+Beim Aufruf der Seiten werden durch GitHub automatisch folgende Daten in Server-Logfiles gespeichert:
 
-# Datenschutz
+* IP-Adresse
+* Datum und Uhrzeit der Anfrage
+* Referrer-URL
+* Browsertyp und -version
+* Betriebssystem
+* aufgerufene Seiten
 
-DBX0AN.net respektiert Ihre Privatsphäre.  
-Es werden **keine personenbezogenen Daten erhoben, gespeichert oder ausgewertet**.
+Die Speicherung erfolgt aus Sicherheitsgründen (z. B. zur Aufklärung von Missbrauch oder Betrug).
+Weitere Informationen findest du in der [GitHub-Datenschutzerklärung](https://docs.github.com/en/site-policy/privacy-policies/github-privacy-statement).
 
-Bei Fragen wenden Sie sich bitte an: contact@hirschdaniel.com
+### 3. Keine Cookies, keine Nutzer-Tracking
 
-**Chart-Daten:**  
-Beim Klick auf "Chart anzeigen" können personenbezogene Daten (z.B. IP-Adresse) an TradingView.com übermittelt werden. Mit dem Klick stimmen Sie der Datenschutzrichtlinie von TradingView.com zu.
+Diese Website setzt **keine Cookies** und verwendet **keine Tracking-Tools** (wie z. B. Google Analytics o. Ä.). Es erfolgt keine personalisierte Auswertung des Nutzerverhaltens.
 
-**Nutzungsstatistiken**:
-Wir erfassen keine Nutzungsstatistiken der Website.
-- Es werden keine Cookies gesetzt.  
-- Es werden keine personenbezogenen Daten gespeichert.  
-- Die Nutzung ist vollständig konform mit der **EU-Datenschutzgrundverordnung (GDPR)** und der **EU ePrivacy-Richtlinie**.  
+### 4. Externe Inhalte: TradingView
+
+Einige Seiten binden interaktive Finanz-Charts von **TradingView** ein. Anbieter ist TradingView Inc., 470 Olde Worthington Rd., Suite 200, Westerville OH 43082, USA.
+
+Beim Laden eines Charts werden personenbezogene Daten (wie Ihre IP-Adresse) an TradingView übertragen.
+Mit dem Laden des Charts stimmen Sie der [Datenschutzerklärung von TradingView](https://www.tradingview.com/privacy-policy/) zu.
+
+### 5. Kontaktaufnahme
+
+Wenn Sie per E-Mail Kontakt aufnehmen, werden die mitgeteilten Daten (z. B. Name, E-Mail-Adresse, Inhalt der Nachricht) gespeichert, um die Anfrage zu beantworten.
+Diese Daten geben wir nicht ohne Ihre Einwilligung weiter.
+
+### 6. Ihre Rechte
+
+Sie haben das Recht auf:
+
+* Auskunft nach Art. 15 DSGVO
+* Berichtigung nach Art. 16 DSGVO
+* Löschung nach Art. 17 DSGVO
+* Einschränkung der Verarbeitung nach Art. 18 DSGVO
+* Widerspruch nach Art. 21 DSGVO
+* Datenübertragbarkeit nach Art. 20 DSGVO
+* Beschwerde bei einer Datenschutz-Aufsichtsbehörde gemäß Art. 77 DSGVO
+
+### 7. Rechtsgrundlagen
+
+Die Verarbeitung personenbezogener Daten erfolgt auf Grundlage von Art. 6 Abs. 1 lit. f DSGVO (berechtigtes Interesse an technisch fehlerfreiem Betrieb und Sicherheit der Website) sowie ggf. Art. 6 Abs. 1 lit. a DSGVO (Einwilligung bei externen Inhalten wie TradingView).

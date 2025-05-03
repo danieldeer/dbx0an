@@ -2,6 +2,7 @@
 draft: false
 title: Wie Funktioniert's?
 seo_title: Wie funktioniert der DBX0AN Tagesgeld-ETF? Einfach & verständlich erklärt
+description: "Hier erfährst du einfach und verständlich, wie der DBX0AN ETF funktioniert, was ihn besonders macht und wie er Tagesgeld ersetzt."
 ---
 
 Der **DBX0AN** ist ein sogenannter **Geldmarkt-ETF**, offiziell heißt er:  
@@ -21,6 +22,8 @@ Das läuft in etwa so:
 - Der Fondskurs steigt dadurch langsam und stetig an, im Takt mit den Zinserträgen.
 
 **Wichtig:** Dein Geld liegt also nicht direkt bei der EZB oder in einem Sparbuch – sondern wird über clevere Verträge mit Banken abgesichert und verwaltet.
+
+👉 **[Bei welchen Brokern kann man den DBX0AN kostenlos kaufen? Hier klicken!](/empfehlungen/)**
 
 ## Was solltest du wissen?
 

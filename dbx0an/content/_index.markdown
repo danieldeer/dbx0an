@@ -1,7 +1,7 @@
 ---
 title: DBX0AN - Einfach Zinsen sichern ohne Bank-Hopping
 seo_title: DBX0AN Tagesgeld-ETF einfach erklärt – Zinsen sichern ohne Bank-Hopping
-description: "Lerne den DBX0AN ETF kennen – die einfache Alternative zu Tagesgeldkonten. Täglich aktuelle Zinsen, volle Flexibilität und keine Bankwechsel nötig. Jetzt verständlich erklärt!"
+description: "Erfahre, wie du mit dem DBX0AN Tagesgeld-ETF täglich aktuelle Zinsen sicherst – einfach erklärt, flexibel und ohne Bankwechsel."
 ---
 
 <img src="https://www.svgrepo.com/show/421832/branch-growth-invest.svg" style="max-width:15%;min-width:40px;float:right;" alt="DBX0AN icon" />
@@ -19,8 +19,8 @@ Er bildet den **täglichen Zinssatz der Europäischen Zentralbank (€STR)** ab 
 
 ## Aktueller Zinssatz
 
-**Stand 27.04.2025:**  
-**➔ 2,169 % p.a.**
+**Stand 03.05.2025:**  
+**➔ 2,156 % p.a.**
 
 *(Zins ändert sich täglich mit dem EZB-Leitzins.)*
 
