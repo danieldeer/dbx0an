@@ -21,7 +21,7 @@ E-Mail: [contact@hirschdaniel.com](mailto:contact@hirschdaniel.com)
 
 Verantwortlich für die Datenverarbeitung auf dieser Website ist:
 
-Daniel Hirsch
+Daniel Hirsch \
 Kiefernweg 17 \
 36110 Schlitz \
 Deutschland
