@@ -19,7 +19,7 @@ menu:
     - name: ⚙️ So funktioniert's
       url: "funktionsweise/"
       weight: 2
-    - name: ⭐ Tipps & Empfehlungen
+    - name: ⭐ Kostenlose Broker Empfehlungen
       url: "empfehlungen/"
       weight: 3
     - name: 🛡️ Sicherheit & Risiken

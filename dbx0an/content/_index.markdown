@@ -13,14 +13,18 @@ Willkommen! Hier erfährst du alles, was du über den **DBX0AN** wissen musst �
 Der **DBX0AN** (offiziell: **Xtrackers II EUR Overnight Rate Swap UCITS ETF**) ist ein Geldmarkt-ETF.  
 Er bildet den **täglichen Zinssatz der Europäischen Zentralbank (€STR)** ab – plus einen kleinen Bonus von 0,085 % pro Jahr.
 
-👉 **[Wie genau funktioniert das? Hier klicken!](/funktionsweise/)**
+👉 [**Wie genau funktioniert das?** Hier klicken!](/funktionsweise/)
+
+Jetzt loslegen:
+
+👉 [**Kostenlose Broker 2025:** Die besten Broker für den DBX0AN!](/empfehlungen/)
 
 ---
 
 ## Aktueller Zinssatz
 
-**Stand 03.05.2025:**  
-**➔ 2,156 % p.a.**
+**Stand 05.05.2025:**  
+**➔ 2,168 % p.a.**
 
 *(Zins ändert sich täglich mit dem EZB-Leitzins.)*
 

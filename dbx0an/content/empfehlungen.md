@@ -6,23 +6,25 @@ description: "Finde heraus, wo du den DBX0AN ETF am günstigsten kaufen kannst. 
 
 Hier findest du die aktuellen Kaufkonditionen für den DBX0AN ETF bei verschiedenen Brokern, die den DBX0AN entweder kostenlos oder sehr günstig anbieten, sowohl im Einmalkauf als auch im Sparplan.
 
+Sortiert nach Kosten (kostenlose Broker zuerst):
 | **Broker**             | **Kaufkosten**                     | **Sparplanfähig** | **Hinweis**                                                                 |
 |------------------------|------------------------------------|-------------------|-----------------------------------------------------------------------------|
+| [**SMARTBROKER+**](https://www.financeads.net/tc.php?t=76019C296855636T)\*       | 0 € (Sparplan) / ab 1 € (Einmalkauf)     | ✅                | Deutscher Broker mit Top-Kundensupport.  |
+| [**justTRADE**](https://www.financeads.net/tc.php?t=76019C372286668B)\*         | 0 €                                 | ✅                | Kostenloser Handel; begrenzte Handelsplätze.  |
+| **Finanzen.net Zero**  | 0 €                                 | ✅                | Kostenloser Handel; begrenzte Auswahl.  |
 | **Scalable Capital**   | 0 € (Prime Broker) / 0,99 € (Free Broker) | ✅                | Handel über gettex; kostenlos im Prime Broker-Modell.  |
-| **SMARTBROKER+**       | 0 € (Sparplan) / ab 1 € (Einmalkauf)     | ✅                | Deutscher Broker mit Top-Kundensupport.  |
 | **Trade Republic**     | 1 € pro Kauf                         | ✅                | Handel über LS Exchange; ideal für kleinere Beträge.  |
-| **justTRADE**          | 0 €                                 | ✅                | Kostenloser Handel; begrenzte Handelsplätze.  |
 | **ING**                | ca. 4,90 € + Börsengebühren          | ✅                | Regulärer Börsenhandel über Xetra; auf Aktionen achten.  |
 | **Comdirect**          | ca. 3,90 € – 9,90 €                  | ✅                | Kosten variieren je nach Ordervolumen und Handelsplatz.  |
-| **DKB**                | 10 € pro Kauf                        | ✅                | Fester Preis; geeignet für größere Einmalanlagen.  |
 | **Consorsbank**        | ca. 4,95 € – 9,95 €                  | ✅                | Kosten variieren; auf Aktionen achten.  |
-| **Finanzen.net Zero**  | 0 €                                 | ✅                | Kostenloser Handel; begrenzte Auswahl.  |
+
+\* die mit \* hervorgehobenen Links sind Affiliate Links. Bei Eröffnung eines Kontos erhalte ich eine Provision. Die Kosten bleiben für dich völlig unverändert.
 
 ---
 
 ## ✅ Empfehlung
 
-Für einen **kostenlosen** oder sehr günstigen Kauf des DBX0AN ETFs sind **Scalable Capital (Prime Broker)**, **SMARTBROKER+**, **justTRADE** und **Finanzen.net Zero** besonders empfehlenswert. Sie bieten entweder komplett kostenfreien Handel oder sehr niedrige Gebühren, was sie ideal für kostenbewusste Anleger macht.
+Für einen **kostenlosen** oder sehr günstigen Kauf des DBX0AN ETFs sind [**SMARTBROKER+**](https://www.financeads.net/tc.php?t=76019C296855636T)\*, [**justTRADE**](https://www.financeads.net/tc.php?t=76019C372286668B)\*, und **Finanzen.net Zero** besonders empfehlenswert. Sie bieten entweder komplett kostenfreien Handel oder sehr niedrige Gebühren, was sie ideal für kostenbewusste Anleger macht.
 
 ---
 
