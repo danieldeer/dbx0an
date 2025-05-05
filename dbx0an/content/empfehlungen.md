@@ -24,7 +24,7 @@ Sortiert nach Kosten (kostenlose Broker zuerst):
 
 ## ✅ Empfehlung
 
-Für einen **kostenlosen** oder sehr günstigen Kauf des DBX0AN ETFs sind [**SMARTBROKER+**](https://www.financeads.net/tc.php?t=76019C296855636T)\*, [**justTRADE**](https://www.financeads.net/tc.php?t=76019C372286668B)\*, und **Finanzen.net Zero** besonders empfehlenswert. Sie bieten entweder komplett kostenfreien Handel oder sehr niedrige Gebühren, was sie ideal für kostenbewusste Anleger macht.
+Für einen **kostenlosen** oder sehr günstigen Kauf des DBX0AN ETFs sind [**SMARTBROKER+**](/broker/smartbroker)\*, [**justTRADE**](/broker/justtrade)\*, und **Finanzen.net Zero** besonders empfehlenswert. Sie bieten entweder komplett kostenfreien Handel oder sehr niedrige Gebühren, was sie ideal für kostenbewusste Anleger macht.
 
 ---
 
