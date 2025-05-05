@@ -9,8 +9,8 @@ Hier findest du die aktuellen Kaufkonditionen für den DBX0AN ETF bei verschiede
 Sortiert nach Kosten (kostenlose Broker zuerst):
 | **Broker**             | **Kaufkosten**                     | **Sparplanfähig** | **Hinweis**                                                                 |
 |------------------------|------------------------------------|-------------------|-----------------------------------------------------------------------------|
-| [**SMARTBROKER+**](https://www.financeads.net/tc.php?t=76019C296855636T)\*       | 0 € (Sparplan) / ab 1 € (Einmalkauf)     | ✅                | Deutscher Broker mit Top-Kundensupport.  |
-| [**justTRADE**](https://www.financeads.net/tc.php?t=76019C372286668B)\*         | 0 €                                 | ✅                | Kostenloser Handel; begrenzte Handelsplätze.  |
+| [**SMARTBROKER+**](/broker/smartbroker)\*       | 0 € (Sparplan) / ab 1 € (Einmalkauf)     | ✅                | Deutscher Broker mit Top-Kundensupport.  |
+| [**justTRADE**](/broker/justtrade)\*         | 0 €                                 | ✅                | Kostenloser Handel; begrenzte Handelsplätze.  |
 | **Finanzen.net Zero**  | 0 €                                 | ✅                | Kostenloser Handel; begrenzte Auswahl.  |
 | **Scalable Capital**   | 0 € (Prime Broker) / 0,99 € (Free Broker) | ✅                | Handel über gettex; kostenlos im Prime Broker-Modell.  |
 | **Trade Republic**     | 1 € pro Kauf                         | ✅                | Handel über LS Exchange; ideal für kleinere Beträge.  |
