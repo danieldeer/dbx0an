@@ -1,6 +1,6 @@
 ---
 title: Aktueller Zinssatz und Kurs
-seo_title: DBX0AN ETF aktueller Kurs und Zinsen
+seo_title: Aktueller Zinssatz und Kurs
 description: "Tagesaktueller Kurs des DBX0AN ETFs. Sieh dir die Kursentwicklung an und verfolge die aktuellen Zinserträge auf einen Blick."
 ---
 
