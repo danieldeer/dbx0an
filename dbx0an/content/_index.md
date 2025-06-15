@@ -23,7 +23,7 @@ Jetzt loslegen:
 
 ## Aktueller Zinssatz
 
-**Stand 14.06.2025:**\
+**Stand 15.06.2025:**\
 **➔ 1,923 % p.a.**
 
 *(Zins ändert sich täglich mit dem EZB-Leitzins.)*
