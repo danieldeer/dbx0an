@@ -6,8 +6,8 @@ description: "Tagesaktueller Kurs des DBX0AN ETFs. Sieh dir die Kursentwicklung 
 
 ## Aktueller Zinssatz
 
-**Stand 06.08.2025:**\
-**➔ 1,924 % p.a.**
+**Stand 14.09.2025:**\
+**➔ 1,925 % p.a.**
 
 *(Zins ändert sich täglich mit dem EZB-Leitzins.)*
 
