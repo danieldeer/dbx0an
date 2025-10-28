@@ -23,8 +23,8 @@ Jetzt loslegen:
 
 ## Aktueller Zinssatz
 
-**Stand 10.10.2025:**\
-**➔ 1,927 % p.a.**
+**Stand 28.10.2025:**\
+**➔ 1,929 % p.a.**
 
 *(Zins ändert sich täglich mit dem EZB-Leitzins.)*
 
