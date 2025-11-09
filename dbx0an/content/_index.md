@@ -23,8 +23,8 @@ Jetzt loslegen:
 
 ## Aktueller Zinssatz
 
-**Stand 01.11.2025:**\
-**➔ 1,931 % p.a.**
+**Stand 09.11.2025:**\
+**➔ 1,930 % p.a.**
 
 *(Zins ändert sich täglich mit dem EZB-Leitzins.)*
 
